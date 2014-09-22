@@ -39,7 +39,11 @@ DemoApp::Application.routes.draw do
   #       get 'recent', on: :collection
   #     end
   #   end
+<<<<<<< HEAD
   
+=======
+
+>>>>>>> ccae39916f7de62310190ad7d0ec056870620b63
   # Example resource route with concerns:
   #   concern :toggleable do
   #     post 'toggle'
